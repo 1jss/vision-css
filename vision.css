@@ -12,8 +12,9 @@ body {
 }
 
 body {
-  background-image: url(andrew-neel-DLD5LvnFblU-unsplash.jpg);
+  background-image: url(spacejoy-c0JoR_-2x3E-unsplash.jpg);
   background-size: cover;
+  background-position-y: bottom;
 }
 
 .container {
