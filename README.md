@@ -1,5 +1,5 @@
 # Vision CSS
-A CSS recreation of the Apple VisionOS window UI, featuring frosted glass effects and corner flaires.
+A CSS recreation of the Apple VisionOS window UI, featuring frosted glass effects and corner flares.
 
 ![Vision CSS Demo](Vision_CSS.png)
 
